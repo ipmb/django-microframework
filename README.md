@@ -2,7 +2,9 @@
 
 A single-page Django website as demoed by Django Fellow Carlton Gibson at DjangoCon US 2019.
 
-_Link to video will be added when available (soon)._
+DjangoCon 2019 Video
+https://youtu.be/w9cYEovduWI
+
 
 ## Instructions
 
